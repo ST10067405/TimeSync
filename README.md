@@ -85,3 +85,4 @@ This application was created with the help of the following resources:
 - The application was created by [Jaime Marc Futter - ST10067405].
 - For any issues or inquiries, contact [ST10067405@vcconnect.edu.za].
 - GitHub Repository Link: [https://github.com/VCWVL/opsc7311---open-source-coding---poe-ST10067405]
+- Public GitHub Repo Link: [https://github.com/ST10067405/TimeSync]
